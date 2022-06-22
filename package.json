@@ -1,0 +1,13 @@
+{
+  "name": "store-api-tests",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "codeceptjs run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "codeceptjs": "^3.3.3"
+  }
+}
